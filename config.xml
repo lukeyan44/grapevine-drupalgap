@@ -3,8 +3,8 @@
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android = "http://schemas.android.com/apk/res/android"
 		id        = "com.grapevine.drupalgap"
-		versionCode=""
-		version   = "">
+		versionCode="1"
+		version   = "1">
 		<name>grapevine-drupalgap</name>
 		<description>		</description>
 		<author href="" email="gumpagain@gmail.com">Luke Yan</author>
